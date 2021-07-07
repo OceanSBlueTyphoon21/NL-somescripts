@@ -2,6 +2,6 @@
 
 printf "Opening up sites...\n"
 
-xdg-open https://outlook.office.com
-xdg-open http://192.168.0.227/login/
+xdg-open https://xxxxxxx.xxxxxxxx.com
+xdg-open http://xxx.xxx.x.xxx/xxxx/
 xdg-open https://app.chime.aws
